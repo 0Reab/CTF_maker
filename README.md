@@ -17,8 +17,9 @@ The `main()` function demonstrates the capabilities of the project.
 # Dependencies
 This project requires the following Python libraries:
 
-pyautogui: For displaying alert boxes.
-PIL: For working with images (from the Pillow package).
+- pyautogui: For displaying alert boxes.
+- PIL: For working with images.
+
 You can install the necessary dependencies using pip:
 
 `pip install pyautogui pillow`
@@ -29,6 +30,8 @@ Activate your virtual environment (if you have one) and run the project:
 
 `.\.venv\scripts\activate.bat`
 `python main.py`
+
+- Alternatively open terminal/cmd in the project directory and run `python main.py`
 
 # Customization
 You can customize this project by adding your own questions, adjusting the delay for the slow_print() function, or extending the existing functionality with additional features.
