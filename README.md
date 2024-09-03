@@ -1,4 +1,4 @@
-CTF_maker
+# CTF_maker
 CTF_maker is a Python project designed to help you create interactive challenges, automate tasks, and provide a framework for Capture the Flag (CTF) events. This project includes various utility functions that you can use to create engaging and automated CTF challenges.
 
 Features
