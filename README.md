@@ -12,6 +12,8 @@ This project includes various utils to help you create engaging CTF challenges.
 - Command Execution (cmd)
 - Alert Messages
 
+The `main()` function demonstrates the capabilities of the project.
+
 # Dependencies
 This project requires the following Python libraries:
 
@@ -27,14 +29,6 @@ Activate your virtual environment (if you have one) and run the project:
 
 `.\.venv\scripts\activate.bat`
 `python main.py`
-
-The main() function demonstrates the capabilities of the project, including:
-
-Prompting the user for input and checking the correctness of the answers.
-Printing messages with a delay between each character.
-Running a shell command that opens a new command prompt window.
-Opening a web browser to a specified URL.
-Displaying an image.
 
 # Customization
 You can customize this project by adding your own questions, adjusting the delay for the slow_print() function, or extending the existing functionality with additional features.
